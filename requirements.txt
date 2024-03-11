@@ -66,7 +66,7 @@ toolz==0.11.2
 tqdm==4.64.0
 typer==0.4.1
 typing_extensions==4.2.0
-urllib3==1.26.9
+urllib3==1.26.18
 wasabi==0.9.1
 wcwidth==0.2.5
 XlsxWriter==3.0.3
