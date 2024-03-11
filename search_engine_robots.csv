@@ -1,0 +1,55 @@
+href,accessible,found_robots,found_sitemaps,time_accessed,ignore
+https://www.google.com/,1,https://www.google.com/robots.txt,['https://www.google.com/sitemap.xml'],2022-06-07 10:29:39.691276,0
+https://www.bing.com/,1,https://www.bing.com/robots.txt,"['http://cn.bing.com/dict/sitemap-index.xml', 'https://www.bing.com/api/maps/mapcontrol/isdk/sitemap.xml', 'https://www.bing.com/travelguide/sitemaps/sitemap.xml', 'https://www.bing.com/maps/sitemap.xml', 'https://www.bing.com/sitemap/shop/sitemap.xml']",2022-06-07 10:29:40.011759,0
+https://in.search.yahoo.com/,1,https://in.search.yahoo.com/robots.txt,,2022-06-07 10:29:40.488014,0
+https://www.baidu.com/,1,https://www.baidu.com/robots.txt,,2022-06-07 10:29:42.005834,0
+https://duckduckgo.com/,1,https://duckduckgo.com/robots.txt,['https://duckduckgo.com/sitemap.xml'],2022-06-07 10:29:42.162114,0
+https://yandex.com/,1,https://yandex.com/robots.txt,"['https://yandex.com/support/sitemap.xml', 'https://yandex.com/blog/sitemap.xml', 'https://yandex.com/turbo/public/sitemap.xml', 'https://yandex.com/games/sitemaps/sitemap.index.xml', 'https://yandex.com/support/sitemap.xml', 'https://yandex.com/blog/sitemap.xml', 'https://yandex.com/turbo/public/sitemap.xml', 'https://yandex.com/games/sitemaps/sitemap.index.xml', 'https://yandex.com/support/sitemap.xml', 'https://yandex.com/blog/sitemap.xml', 'https://yandex.com/turbo/public/sitemap.xml', 'https://yandex.com/games/sitemaps/sitemap.index.xml']",2022-06-07 10:29:44.021279,0
+https://www.ask.com/,1,https://www.ask.com/robots.txt,['https://www.ask.com/sitemap.xml'],2022-06-07 10:29:44.242983,0
+https://www.naver.com/,1,https://www.naver.com/robots.txt,,2022-06-07 10:29:45.208337,0
+https://www.aol.com/,1,https://www.aol.com/robots.txt,"['https://www.aol.com/sitemap_index.xml', 'https://www.aol.com/o2-seo-sitemap/o2-index-video-sitemap.xml.gz', 'https://www.aol.com/sitemaps/aolnews-sitemap_index_US_en-US.xml.gz', 'https://www.aol.com/sitemaps/aolnews-sitemap_googlenewsindex_US_en-US.xml.gz', 'https://www.aol.com/sitemaps/aolentertainment-sitemap_index_US_en-US.xml.gz', 'https://www.aol.com/sitemaps/aolentertainment-sitemap_googlenewsindex_US_en-US.xml.gz', 'https://www.aol.com/sitemaps/aolfinance-sitemap_index_US_en-US.xml.gz', 'https://www.aol.com/sitemaps/aolfinance-sitemap_googlenewsindex_US_en-US.xml.gz', 'https://www.aol.com/sitemaps/aollifestyle-sitemap_index_US_en-US.xml.gz', 'https://www.aol.com/sitemaps/aollifestyle-sitemap_googlenewsindex_US_en-US.xml.gz', 'https://www.aol.com/sitemaps/aolweather-sitemap_index_US_en-US.xml.gz', 'https://www.aol.com/sitemaps/aolweather-sitemap_googlenewsindex_US_en-US.xml.gz']",2022-06-07 10:29:45.849402,0
+https://www.seznam.cz/,1,,,2022-06-07 10:29:47.704335,0
+https://www.yippy.com/,1,,,2022-06-07 10:29:47.798866,0
+https://ccsearch.creativecommons.org/,1,https://ccsearch.creativecommons.org/robots.txt,,2022-06-07 10:29:49.044924,0
+https://gibiru.com/,1,https://gibiru.com/robots.txt,,2022-06-07 10:29:49.196015,0
+https://amazon.com,1,,,2022-06-07 10:29:49.421303,0
+https://www.searchencrypt.com/,1,,,2022-06-07 10:29:49.724037,0
+https://www.startpage.com/,1,https://www.startpage.com/robots.txt,,2022-06-07 10:29:51.054612,0
+https://swisscows.com/,1,https://swisscows.com/robots.txt,['https://swisscows.com/sitemap.xml'],2022-06-07 10:29:52.624385,0
+https://www.ecosia.org/?c=en,1,https://www.ecosia.org/robots.txt,,2022-06-07 10:29:53.031030,0
+https://www.gigablast.com/,1,https://www.gigablast.com/robots.txt,,2022-06-07 10:29:54.169442,0
+https://www.lycos.com/,1,https://www.lycos.com/robots.txt,['http://www.lycos.com/sitemap.xml'],2022-06-07 10:29:54.661840,0
+https://www.mojeek.com/,1,https://www.mojeek.com/robots.txt,,2022-06-07 10:29:55.519019,0
+https://searx.me/,0,,,2022-06-07 10:29:55.628944,0
+https://www.webcrawler.com/,1,https://www.webcrawler.com/robots.txt,,2022-06-07 10:29:56.437709,0
+https://www.wolframalpha.com/,1,https://www.wolframalpha.com/robots.txt,,2022-06-07 10:29:57.754816,0
+https://neeva.co/,1,https://neeva.co/robots.txt,['https://neeva.com/sitemap.xml'],2022-06-07 10:29:58.404305,0
+https://metager.org/,1,https://metager.org/robots.txt,,2022-06-07 10:29:59.512509,0
+https://www.qwant.com/?l=en,1,https://www.qwant.com/robots.txt,,2022-06-07 10:30:00.924578,0
+https://qmamu.com/,1,https://qmamu.com/robots.txt,,2022-06-07 10:30:03.067257,0
+https://you.com/,1,,,2022-06-07 10:30:03.186806,0
+https://www.oscobo.com/,1,https://www.oscobo.com/robots.txt,,2022-06-07 10:30:04.354308,0
+https://infinitysearch.co/,1,https://infinitysearch.co/robots.txt,,2022-06-07 10:30:04.829192,0
+https://yep.com,1,https://yep.com/robots.txt,,2022-06-07 10:30:06.994141,0
+https://infinitysearch.co/,1,https://infinitysearch.co/robots.txt,,2022-06-07 10:30:07.402487,0
+https://www.facebook.com/,1,https://www.facebook.com/robots.txt,,2022-06-07 10:30:07.782680,0
+https://www.linkedin.com/,1,https://www.linkedin.com/robots.txt,,2022-06-07 10:30:08.452821,0
+https://twitter.com/explore,1,https://twitter.com/robots.txt,['https://twitter.com/sitemap.xml'],2022-06-07 10:30:08.833829,0
+https://search.brave.com/,1,https://search.brave.com/robots.txt,,2022-06-07 10:30:09.443799,0
+https://www.flickr.com/,1,https://www.flickr.com/robots.txt,"['https://www.flickr.com/sitemap/index/users/sitemap-index-users-00000000.xml.gz', 'https://www.flickr.com/sitemap/index/tags/sitemap-index-tags-00000000.xml.gz', 'https://www.flickr.com/sitemap/index/sets/sitemap-index-sets-00000000.xml.gz', 'https://www.flickr.com/sitemap/index/photos/sitemap-index-photos-00000000.xml.gz', 'https://www.flickr.com/sitemap/index/groups/sitemap-index-groups-00000000.xml.gz']",2022-06-07 10:30:09.833298,0
+https://in.pinterest.com/,1,https://in.pinterest.com/robots.txt,"['https://in.pinterest.com/v3_sitemaps/readable_pin_url_sitemap_in.pinterest.com.xml', 'https://in.pinterest.com/v3_sitemaps/pin_image_sitemap_in.pinterest.com.xml', 'https://in.pinterest.com/v3_sitemaps/promoted_idea_pin_sitemap_in.pinterest.com.xml']",2022-06-07 10:30:10.581134,0
+https://www.bing.com/images/trending?FORM=ILPTRD,1,https://www.bing.com/robots.txt,"['http://cn.bing.com/dict/sitemap-index.xml', 'https://www.bing.com/api/maps/mapcontrol/isdk/sitemap.xml', 'https://www.bing.com/travelguide/sitemaps/sitemap.xml', 'https://www.bing.com/maps/sitemap.xml', 'https://www.bing.com/sitemap/shop/sitemap.xml']",2022-06-07 10:30:10.873709,0
+https://www.google.com/imghp?hl=en,1,https://www.google.com/robots.txt,['https://www.google.com/sitemap.xml'],2022-06-07 10:30:11.103016,0
+https://tineye.com/,1,https://tineye.com/robots.txt,,2022-06-07 10:30:11.426082,0
+https://commons.wikimedia.org/wiki/Main_Page,1,https://commons.wikimedia.org/robots.txt,,2022-06-07 10:30:11.605162,0
+https://youtube.com,1,https://youtube.com/robots.txt,"['https://www.youtube.com/sitemaps/sitemap.xml', 'https://www.youtube.com/product/sitemap.xml']",2022-06-07 10:30:12.233562,0
+https://www.dailymotion.com/in,1,https://www.dailymotion.com/robots.txt,"['https://www.dailymotion.com/map-videos-latest.xml', 'https://www.dailymotion.com/map-videos-default-strategic.xml', 'https://www.dailymotion.com/map-videos-default-partner.xml', 'https://www.dailymotion.com/map-videos-default-user.xml', 'https://www.dailymotion.com/map-topics-strategic.xml', 'https://www.dailymotion.com/map-channels-strategic.xml', 'https://www.dailymotion.com/map-pages-default.xml', 'https://www.dailymotion.com/map-videos-default-heuristic.xml', 'https://www.dailymotion.com/map-videos-latest-heuristic.xml']",2022-06-07 10:30:12.734535,0
+https://vimeo.com/,1,https://vimeo.com/robots.txt,"['https://vimeo.com/sitemap/master.xml.gz', 'https://vimeo.com/sitemap/latest.xml.gz', 'https://vimeo.com/sitemap/stock.xml.gz', 'https://vimeo.com/sitemap/static-sitemap.xml', 'https://vimeo.com/blog/sitemap_index.xml']",2022-06-07 10:30:13.129346,0
+https://lbry.com/,1,https://lbry.com/robots.txt,,2022-06-07 10:30:13.438039,0
+https://joinpeertube.org/,1,,,2022-06-07 10:30:14.449532,0
+https://d.tube/,0,,,2022-06-07 10:30:14.535807,0
+https://bittube.tv/,1,https://bittube.tv/robots.txt,,2022-06-07 10:30:17.299715,0
+https://www.bitchute.com/,1,https://www.bitchute.com/robots.txt,,2022-06-07 10:30:18.088497,0
+https://www.twitch.tv/,1,https://www.twitch.tv/robots.txt,['https://www.twitch.tv/sitemapv2_index.xml.gz'],2022-06-07 10:30:18.263732,0
+https://www.metacafe.com/,1,https://www.metacafe.com/robots.txt,,2022-06-07 10:30:20.316803,0
+https://archive.org/,1,https://archive.org/robots.txt,['https://archive.org/sitemap/sitemap.xml'],2022-06-07 10:30:21.284901,0
